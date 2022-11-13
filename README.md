@@ -40,7 +40,7 @@ El usuario será capaz de realizar las siguientes acciones
 ### Construído con
 
 - Etiquetas semánticas HTML5
-- Propiedades CSS
+- Propiedades personalizadas CSS
 - Flex box
 - CSS Grid
 - Proceso de desarrollo Mobile-First
