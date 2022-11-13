@@ -6,6 +6,13 @@
   - [Características](#características)
   - [Capturas de pantalla](#capturas-de-pantalla)
   - [Enlaces](#enlaces)
+- [Mi procedimiento](#mi-procedimiento)
+  - [Construído con](#construído-con)
+  - [Aprendizaje obtenido](#aprendizaje-obtenido)
+  - [Mejoras en mis habilidades de desarrollo](#mejoras-en-mis-habilidades-de-desarrollo)
+  - [Recursos utilizados](#recursos-utilizados)
+- [Author](#author)
+- [Agradecimientos](#agradecimientos)
 
 ## Introducción
 
@@ -37,7 +44,7 @@ El usuario será capaz de realizar las siguientes acciones
 - Proceso de desarrollo Mobile-First
 _Nota: Esta lista es solo de ejemplo. Eliminar y remplazar la lista con tus propias opciones_
 
-### ¿Qué aprendí?
+### Aprendizaje obtenido
 
 Usa esta sección para recapitular sobre tus aprendizajes mas significativos mientras trabajaste en el proyecto. Escribelos y anota codigos sencillos de aspectos que quieras resaltar es un buen camino para reforzar tu conocimiento.
 
