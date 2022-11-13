@@ -1,4 +1,6 @@
-# Frontend Mentor - Componente tarjeta vista previa de producto
+# Frontend Mentor - Card component: vista previa de producto
+
+Esta es una solución para la práctica "Card component: vista previa de producto". Este proyecto pretender mejorar las habilidades en HTML y CSS para construir proyectos reales.
 
 ## Tabla de contenido
 
